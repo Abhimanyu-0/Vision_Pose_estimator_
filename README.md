@@ -1,1 +1,1 @@
-# MAV_pose_estimation_using_April_Tags
+This repo contains the implementation of a pose estimator for a nano+ quadrotor using April Tags
